@@ -1,0 +1,2 @@
+# shorties
+Brief code examples
